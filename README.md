@@ -1,2 +1,2 @@
-# practice.github.io
+# practice.github
 practiceweb
